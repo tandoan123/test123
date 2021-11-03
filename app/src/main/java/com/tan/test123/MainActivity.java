@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // thêm vào dòng số 1
+        // hàng này vừa được thêm vào đây nha
     }
 }
